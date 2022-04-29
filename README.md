@@ -1,5 +1,5 @@
 
-This repo contains scripts used in [AMD EPYC 7313P Energy Consumption]() blog post.
+This repo contains scripts used in [AMD EPYC 7313P Energy Consumption Test](https://metebalci.com/blog/epyc-energy-consumption-test/) blog post.
 
 # test.sh 
 
