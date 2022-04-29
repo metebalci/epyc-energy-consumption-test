@@ -3,7 +3,7 @@ This repo contains scripts used in [AMD EPYC 7313P Energy Consumption]() blog po
 
 # test.sh 
 
-`test.sh` runs various tests and generates output files.
+`test.sh` runs various tests and generates output files. It should be run in an empty directory because it generates many files.
 
 turbostat measurement interval and stress timeout can be configured at the top of the script.
 
